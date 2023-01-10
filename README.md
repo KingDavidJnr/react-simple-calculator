@@ -1,18 +1,18 @@
 # Build a calculator app
 
 
-Instructions
+## Instructions
 
 <hr>
 
-## Task
+### Task
 <hr>
 For this assessment, you will be building a calculator in React. You are provided with code snippets, and your task is to use these, plus any of your code to complete a calculator app that can perform the four basic mathematical operations: addition, subtraction, multiplication, and division.
 <hr>
 
 <hr>
 
-## Before you begin
+### Before you begin
 <hr>
 If you execute the npm start command before changing any code in this task, you'll get the notification in the code lab's terminal that reads "webpack compiled successfully".
 
@@ -20,7 +20,7 @@ You are now ready to start working on your app. Follow the comments in the code!
 <hr>
 <hr>
 
-## Steps
+### Steps
 <hr>
 In this assessment, your goal is to build a simple calculator app.
 
